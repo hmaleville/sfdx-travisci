@@ -1,0 +1,3 @@
+export CONSUMER_KEY=3MVG9TSaZ8P6zP1pHyl9yapl28kXgg4FWSvmez3f79Hcmg5cIKIEGe9XHttUFCoA.Ic0CrcZdL0SOFKbV3.ND
+export JWT_KEY_FILE=~/certificates/server.key
+export HUB_USERNAME=herve-dev-hub@salesforce.demo.org
